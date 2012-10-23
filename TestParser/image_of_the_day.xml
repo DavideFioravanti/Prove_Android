@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="/externalflash/NASA_Detail/NASA_Detail.xsl" type="text/xsl"?>
+<rss version="2.0">
+<channel>
+<title>NASA Image of the Day</title>
+<link>http://www.nasa.gov/multimedia/imagegallery/index.html</link>
+<description>The latest NASA "Image of the Day" image.</description>
+<language>en-us</language>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<managingEditor>yvette.smith-1@nasa.gov</managingEditor>
+<webMaster>brian.dunbar@nasa.gov</webMaster>
+<item xmlns:java_code="xalan://gov.nasa.build.Utils1">
+	<title>Rocket Rollout</title>
+	<link>http://www.nasa.gov/multimedia/imagegallery/image_feature_2378.html</link>
+	<description>The Soyuz rocket is rolled out to the launch pad by train, on Sunday, Oct. 21, 2012, at the Baikonur Cosmodrome in Kazakhstan. Launch of the Soyuz rocket is scheduled for Tuesday, Oct. 23. The rocket will send Expedition 33/34 Flight Engineer Kevin Ford of NASA, Soyuz Commander Oleg Novitskiy and Flight Engineer Engineer Evgeny Tarelkin of ROSCOSMOS on a five-month mission aboard the International Space Station. Image Credit: NASA/Bill Ingalls</description> 
+	<guid isPermaLink="true">http://www.nasa.gov/multimedia/imagegallery/image_feature_2378.html</guid> 
+	<pubDate>Mon, 22 Oct 2012 00:00:00 EDT</pubDate>
+	<enclosure length="1234567" type="image/jpeg" url="http://www.nasa.gov/images/content/698860main_soyuz_rollout_cropped_516-387.jpg"/> 
+</item>
+</channel>
+</rss>
